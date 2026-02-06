@@ -20,7 +20,3 @@ Skills: React, CSS, JavaScript, Figma
 Email: john@email.com  
 Location: New York
 ```
-
-
-
-![]()<img src="./screenshots/team.png" width="540" height="720"> 
